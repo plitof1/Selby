@@ -13,6 +13,7 @@ To independently verify DNA analysis as published in The Plant Journal (2021) 10
 1. SRA Toolkit (v3.1.0 - MacOS x86-64bit)  : https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit
 2. HybPiper (v2.1.6)   : https://github.com/mossmatters/HybPiper/releases
 3. U.PhyloMaker (v0.1.0) : https://github.com/jinyizju/U.PhyloMaker/blob/master/U.PhyloMaker_0.1.0.tar.gz
+4. Anaconda (Anaconda3-2024.02-1 MacOSX-x86_64) : https://www.anaconda.com/download
 
 ### 2. Data
 1. Sequencing data associated with the BioSample accession number SAMN13973793
