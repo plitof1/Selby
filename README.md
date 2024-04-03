@@ -10,11 +10,9 @@ To independently verify DNA analysis as published in The Plant Journal (2021) 10
 
 
 ### 1. Software
-1. SRA Toolkit : https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit
-2. HybPiper    : https://github.com/mossmatters/HybPiper/releases
-               : Release used - 2.1.6
-4. U.PhyloMaker: https://github.com/jinyizju/U.PhyloMaker/blob/master/U.PhyloMaker_0.1.0.tar.gz
-               : Release used - 0.1.0
+1. SRA Toolkit (v3.1.0 - MacOS x86-64bit)  : https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit
+2. HybPiper (v2.1.6)   : https://github.com/mossmatters/HybPiper/releases
+3. U.PhyloMaker (v0.1.0) : https://github.com/jinyizju/U.PhyloMaker/blob/master/U.PhyloMaker_0.1.0.tar.gz
 
 ### 2. Data
 1. SRR11024140  : https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR11028140&display=download
