@@ -17,7 +17,7 @@ To independently verify DNA analysis as published in The Plant Journal (2021) 10
 ### 2. Data
 1. Sequencing data associated with the BioSample accession number SAMN13973793
    SRR11024140  : https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR11028140&display=download
-2. Data extraction : fastq-dump --outdir /path/to/output/directory --split-files --gzip --origfmt SRR11028140
+2. Data extraction using SRA Toolkit: fastq-dump --outdir /path/to/output/directory --split-files --gzip --origfmt SRR11028140
    
 ### 3. Execute Scrips
 TBD
