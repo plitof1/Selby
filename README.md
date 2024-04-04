@@ -10,6 +10,12 @@ To independently verify DNA analysis as published in The Plant Journal (2021) 10
 
 
 ### 1. Software
+#### Creatting A Basic Development Environment
+1. Anaconda (Anaconda3-2024.02-1 MacOSX-x86_64) : https://www.anaconda.com/download
+2. Python (pycharm-community-2023.2.5)
+3. R ( 4.3.3 2024-02-29 r86216) 
+   
+#### Software Needed For This Project
 1. SRA Toolkit (v3.1.0 - MacOS x86-64bit)  : https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit
 2. HybPiper (v2.1.6)   : https://github.com/mossmatters/HybPiper/releases
 3. U.PhyloMaker (v0.1.0) : https://github.com/jinyizju/U.PhyloMaker/blob/master/U.PhyloMaker_0.1.0.tar.gz
