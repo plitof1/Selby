@@ -12,8 +12,8 @@ To independently verify DNA analysis as published in The Plant Journal (2021) 10
 ### 1. Software
 #### Creating A Basic Development Environment
 1. Anaconda (Anaconda3-2024.02-1 MacOSX-x86_64) : https://www.anaconda.com/download
-2. Python (pycharm-community-2023.2.5)
-3. R ( 4.3.3 2024-02-29 r86216) 
+2. Python (pycharm-community-2023.2.5) -- https://www.jetbrains.com/edu-products/download/download-thanks-pce.html
+3. R (4.3.3 -- Angel Food Cake (for Mac Intel) package: R-4.3.3-x86_64.pkg) -- A) https://www.r-project.org/   B) Select "download R" 
    
 #### Software Needed For This Project
 1. SRA Toolkit (v3.1.0 - MacOS x86-64bit)  : https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit
